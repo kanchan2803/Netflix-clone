@@ -264,10 +264,10 @@ footer .questions{
 
     .secImg video{
         width: 265px;
-        top: 82px;
+        top: 48px;
     }
     .hero> :nth-child(1) {
-        font-size: 30px;
+        font-size: 29px;
     }
 
     .hero> :nth-child(2) {
@@ -310,7 +310,7 @@ footer .questions{
     }
     
     .btn-red{
-        font-size: 20px;
+        font-size: 10px;
     }
 
     section.first>div :nth-child(2) {
@@ -320,8 +320,11 @@ footer .questions{
     section.first>div :nth-child(1) {
         font-size: 20px;
     }
-    
 
+    section.first>div {
+        padding: 17px 0;
+    }
+    
 }
 
     
