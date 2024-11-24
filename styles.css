@@ -263,18 +263,19 @@ footer .questions{
     }
 
     .secImg video{
-        width: 305px;
+        width: 265px;
+        top: 82px;
     }
     .hero> :nth-child(1) {
-        font-size: 32px;
+        font-size: 30px;
     }
 
     .hero> :nth-child(2) {
-        font-size: 18px;
+        font-size: 15px;
     }
 
     .hero> :nth-child(3) {
-        font-size: 18px;
+        font-size: 15px;
     }
 
     .hero-buttons {
@@ -303,7 +304,23 @@ footer .questions{
     .footer-item{
         align-items: center;
     }
- 
+
+    .main input {
+        padding: 7px 10px 8px 14px;
+    }
+    
+    .btn-red{
+        font-size: 20px;
+    }
+
+    section.first>div :nth-child(2) {
+        font-size: 15px;
+    }
+
+    section.first>div :nth-child(1) {
+        font-size: 20px;
+    }
+    
 
 }
 
